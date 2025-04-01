@@ -2,7 +2,6 @@
 
 A web-based platform for uploading datasets, fine-tuning language models, and querying them with a user-friendly interface.
 
-![Platform Screenshot](https://via.placeholder.com/800x450)
 
 ## Features
 
